@@ -93,7 +93,7 @@ const template = (
                     padding: 0 4px 0 0;
                     color: #43b9fb;
                   "
-                  href="https://www.linkein.com/company/hipporello"
+                  href="https://www.linkedin.com/company/hipporello"
                   target="_blank"
                   >Linkedin</a
                 >
